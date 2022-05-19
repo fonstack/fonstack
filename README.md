@@ -9,4 +9,4 @@
 
 ### Hi there 👋,
 
-I am a Systems Engineer currently working as a Full-Stack developer. I mainly focus on Front-End and what I'm passionate about is UI and UX. My designs are characterized for offering a good user experience accompanied by the techniques of Responsive Web Design and modern Animations. If you are looking for a Web Developer feel free to contact me. I am also currently training to be a data scientist, another world that I'm really passionate about.
+I am a Systems Engineer currently working as a Full-Stack developer. I mainly focus on Front-End and what I'm passionate about is UI and UX. My designs are characterized for offering a good user experience accompanied by the techniques of Responsive Web Design and modern Animations. If you are looking for a Web Developer feel free to contact me. I am also currently training to be a blockchain developer, another world that I'm really passionate about.
